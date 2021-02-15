@@ -1,0 +1,9 @@
+[submodule "examples/embed-and-fullscreen/ios/react-native-video.git"]
+	path = examples/embed-and-fullscreen/ios/react-native-video.git
+	url = git@github.com:lousyfisherman07/react-native-video.git
+[submodule "ios/Video/music-player"]
+	path = ios/Video/music-player
+	url = git@github.com:lousyfisherman07/music-player
+[submodule "ios/Video/music-player/src"]
+	path = ios/Video/music-player/src
+	url = git@github.com:lousyfisherman07/music-player
